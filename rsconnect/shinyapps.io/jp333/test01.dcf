@@ -1,0 +1,11 @@
+name: test01
+title:
+username:
+account: jp333
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4028222
+bundleId: 4517172
+url: https://jp333.shinyapps.io/test01/
+when: 1619371319.48619
+lastSyncTime: 1619371319.48619
